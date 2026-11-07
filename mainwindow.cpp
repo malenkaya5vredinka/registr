@@ -12,7 +12,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     setFixedSize(400, 350);
     setWindowTitle("Форма регистрации");
-    setWindowIcon(QIcon(":/ee.png"));
+    setWindowIcon(QIcon(":/ii.jpeg"));
     QLabel* label1 = new QLabel("<b>Форма регистрации</b>", this);
     label1->setGeometry(15, 20, 365, 20);
     label1->setAlignment(Qt::AlignCenter);
